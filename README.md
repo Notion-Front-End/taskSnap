@@ -13,7 +13,7 @@ Calendar page will render all tasks in a calendar format. With the use of React-
 ## Dependencies
 TaskSnap app use several packages to form a full functional app. To install all dependencies, run the following command in a terminal
 ```
-npm install
+npm install --save
 ```
 
 ## Reference
